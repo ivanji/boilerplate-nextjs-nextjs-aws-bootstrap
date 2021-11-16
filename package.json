@@ -25,7 +25,7 @@
     "@zeit/next-sass": "^1.0.1",
     "autoprefixer": "^9.6.1",
     "aws-amplify-react": "^2.4.4",
-    "aws-sdk": "^2.292.0",
+    "aws-sdk": "^2.814.0",
     "bootstrap": "^4.3.1",
     "hydra": "^1.6.8",
     "isomorphic-unfetch": "^3.0.0",
